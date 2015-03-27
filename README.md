@@ -11,7 +11,7 @@ http://tidepool.meteor.com
 
 ## Features
 
-* Take pictures from Chrome (works on desktop and Android, probably on iOS too)
+* Take pictures from Chrome (works on desktop and Android, does not work on iOS)
 
 * Upload photo to cloud (visit the http://tidepool.meteor.com instance)
 
